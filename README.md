@@ -18,4 +18,6 @@ For the best audio performance on Linux, you should install the PulseAudio drive
 
 To start the production server, run `./prod.sh`, which assumes you are using HTTPS for the server, and will only send an authentication cookie if your reverse proxy is set up to use HTTPS. The development script, `start.sh`, allows for cookies to be sent over HTTP, but should only be used for development.
 
+## Credit
 
+Main Contributors: @dgorbunov @afrenkai
