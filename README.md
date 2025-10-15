@@ -20,4 +20,4 @@ To start the production server, run `./prod.sh`, which assumes you are using HTT
 
 ## Credit
 
-Main Contributors: @dgorbunov @afrenkai
+Main Contributors: @dgorbunov @afrenkai @Ben-Santana
